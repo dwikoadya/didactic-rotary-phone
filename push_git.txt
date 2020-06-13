@@ -1,0 +1,11 @@
+1.bikin repo di github
+2.copy remote
+3.buka git bash di direktori yg diinginkan
+4.masukan command (git init)
+5.copy remote dengan command (git remote add origin <url>)
+6.lihat status  dengan command (git status).
+6a.gunakan command (git fetch) untuk mengambil informasi repo.
+6b.gunakan command (git pull origin <nama branch>) untuk mengambil perubahan dari branch.
+7.tambah file dengan command (git add .) untuk semua file atau (git add <nama file>) untuk satuan.
+8.commit file dengan command (git commit -m 'pesan').
+9.push commit ke repo dengan command (git push origin <nama branch>). 
